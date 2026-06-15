@@ -4,7 +4,7 @@ Personal executive profile website for Andy Li, focused on business strategy, en
 
 Live site:
 
-https://tiny-stardust-924f0b.netlify.app
+https://andy-li-advisory.netlify.app/
 
 ## Positioning
 
